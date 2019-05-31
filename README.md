@@ -22,7 +22,7 @@ This project aims to provide a viable Chatbot for NUS ISS website.
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Power Supplier Recommender](http://img.youtube.com/vi/mmfMunHuYzE/0.jpg)](https://youtu.be/mmfMunHuYzE "Power Supplier Recommender")
+[![AMAB](https://i9.ytimg.com/vi/lwk6KzagxJo/mq1.jpg?sqp=CLTkxOcF&rs=AOn4CLAwjj2kbTRT1l9Hwnkfjqn4s7e_1Q)](https://youtu.be/lwk6KzagxJo "AMAB")
 
 ---
 ## SECTION 5 : USER GUIDE
