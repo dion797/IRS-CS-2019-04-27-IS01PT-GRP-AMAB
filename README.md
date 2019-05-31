@@ -26,9 +26,6 @@ This project aims to provide a viable Chatbot for NUS ISS website.
 
 ---
 ## SECTION 5 : USER GUIDE
-
-`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/UserGuide/User%20Guide.pdf>
-
 ### [ 1 ] To run the system using iss-vm
 
 > download pre-built virtual machine from http://bit.ly/iss-vm
@@ -101,8 +98,8 @@ This project aims to provide a viable Chatbot for NUS ISS website.
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-Power_Supplier_Recommender.pdf
-`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/ProjectReport/Power_Supplier_Recommender.pdf>
+amab.pdf
+`<Github File Link>` : <https://github.com/dion797/IRS-CS-2019-04-27-IS01PT-GRP-AMAB/blob/master/ProjectReport/amab.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
