@@ -104,7 +104,7 @@ amab.pdf
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-Power Supplier Recommender.xlsx
-`<Github File Link>` : <https://github.com/dion797/IRS-MR-2019-01-19-IS1PT-GRP-THOR-PSR/blob/master/Miscellaneous/Power%20Supplier%20Recommender.xlsx>
+ChatBot.xlsx
+`<Github File Link>` : <https://github.com/dion797/IRS-CS-2019-04-27-IS01PT-GRP-AMAB/blob/master/Miscellaneous/ChatBot.xlsx>
 
 ---
